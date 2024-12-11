@@ -16,6 +16,7 @@ https://doi.org/10.1038/s41586-020-2649-2)
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/numpy/numpy/badge)](https://securityscorecards.dev/viewer/?uri=github.com/numpy/numpy)
 
 
+I'm so glad to be baaaack! FerMarLey
 NumPy is the fundamental package for scientific computing with Python.
 
 - **Website:** https://www.numpy.org
